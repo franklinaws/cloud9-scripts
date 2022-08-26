@@ -1,0 +1,5 @@
+aws
+awscliv2.zip
+eks-blueprint/before-argocd/.terraform.lock.hcl
+eks-blueprint/before-argocd/.terraform/
+eks-blueprint/before-argocd/terraform.tfstate
